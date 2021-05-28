@@ -1,0 +1,38 @@
+[
+    {
+        "title":"The Craze of Programming !",
+        "content":"Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using a variety of computer programming languages, such as JavaScript, Python, and C++. Created by Pamela Fox.",
+        "user_id":4
+    },
+    {
+        "title":"Cryptcurrency is the new KEY!",
+        "content":"A cryptocurrency, crypto-currency, or crypto is a digital asset designed to work as a medium of exchange wherein individual coin ownership records are stored in a ledger existing in a form of a computerized database using strong cryptography to secure transaction records, to control the creation of additional coins",
+        "user_id":3
+    },
+    {
+        "title":"NextStep is Cloud !",
+        "content":"Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.[2] The term is generally used to describe data centers available to many users over the Internet.[3] Large clouds, predominant today, often have functions distributed over multiple locations from central servers. If the connection to the user is relatively close, it may be designated an edge server.",
+        "user_id":1
+    },
+    {
+        "title":"The Amaze ML",
+        "content":"Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.",
+        "user_id":2
+    },
+    {
+        "title":"Talk to AI",
+        "content":"Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.",
+        "user_id":3
+    },
+    {
+        "title":"Web Developement at ease",
+        "content":"Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+        "user_id":2
+    },
+    {
+        "title":"Creation of Computation",
+        "content":"Computation is any type of calculation that includes both arithmetical and non-arithmetical steps and which follows a well-defined model (e.g. an algorithm). Mechanical or electronic devices (or, historically, people) that perform computations are known as computer",
+        "user_id":1
+    }
+
+]
